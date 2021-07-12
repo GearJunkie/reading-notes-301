@@ -48,7 +48,10 @@ Furthermore, props data is read-only, which means that data coming from the pare
 
 ## How are Props used in React?
 - Firstly, define an attribute and its value(data)
-`<ChildComponent someAttribute={value} anotherAttribute={value}/>`
+```
+<ChildComponent someAttribute={value} anotherAttribute={value}/>
+<ChildComponent text={“I’m the 1st child”} />
+```
 - Then pass it to child component(s) by using Props
 - Finally, render the Props Data
 
