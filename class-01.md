@@ -53,6 +53,37 @@ Furthermore, props data is read-only, which means that data coming from the pare
 <ChildComponent text={“I’m the 1st child”} />
 ```
 - Then pass it to child component(s) by using Props
+passed through a function:
+```
+const addition = (firstNum, secondNum) => {  
+  return firstNum + secondNum; 
+};
+```
+passed through a React component:
+```
+const ChildComponent = (props) => {  
+  return <p>I'm the 1st child!</p>; 
+};
+```
 - Finally, render the Props Data
-
+```
+const ChildComponent = (props) => {  
+  return <p>{props.text}</p>; 
+};
+```
+```
+class ParentComponent extends Component {  
+  render() {
+    return (
+      <h1>
+        I'm the parent component.
+        <ChildComponent text={"I'm the 1st child"} />
+        <ChildComponent text={"I'm the 2nd child"} />
+        <ChildComponent text={"I'm the 3rd child"} />
+      </h1>
+    );
+  }
+}
+```
 ## What is the flow of Props?
+The flow is One-Way and down, passed from the parent component to the child component.
