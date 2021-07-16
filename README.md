@@ -7,4 +7,5 @@ This repository will house all of my assigned reading and the notes associated w
 - [Reading Notes 1 - Intro to React & Components](class-01.md)
 - [Reading Notes 2 - State & Props](class-02.md)
 - [Reading Notes 3 - Passing Functions as Props](class-03.md)
-- [Reading Notes 4 - ](class-04.md)
+- [Reading Notes 4 - React & Forms](class-04.md)
+- [Reading Notes 5 - ](class-05.md)
