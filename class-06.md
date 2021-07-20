@@ -16,4 +16,4 @@ Now that we know what Node and npm are; installing (via npm) and running (via No
 
 Next we come to one of the biggest use cases for Node.js, running JavaScript on the server. Node.js is single-threaded. It’s also event-driven, which means that everything that happens in Node is in reaction to an event.
 
-https://uploads.sitepoint.com/wp-content/uploads/2012/10/1516152673node_event_loop.png)
+https://uploads.sitepoint.com/wp-content/uploads/2012/10/1516152673node_event_loop.png
