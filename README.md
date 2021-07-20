@@ -9,3 +9,4 @@ This repository will house all of my assigned reading and the notes associated w
 - [Reading Notes 3 - Passing Functions as Props](class-03.md)
 - [Reading Notes 4 - React & Forms](class-04.md)
 - [Reading Notes 5 - Thinking in React](class-05.md)
+- [Reading Notes 6 - Node.js](class-06.md)
