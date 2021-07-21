@@ -19,3 +19,4 @@
 - Psychological safety is a group culture, a shared belief held by members of a team that the team is safe for interpersonal risk-taking, sharing their ideas without fear of harsh critique, and working through roadblocks in progress together without judgement or shame.
 
 - Establishing a connection and showing social sensitivity within a team will foster psychological safety. How to establish these concepts is fluid and is based largely on the human element of the individuals in the team.
+
