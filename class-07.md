@@ -20,3 +20,5 @@
 
 - Establishing a connection and showing social sensitivity within a team will foster psychological safety. How to establish these concepts is fluid and is based largely on the human element of the individuals in the team.
 
+### Who is Roy Fieldings?
+- He helped write the first web servers, that sent documents across the internet, and researched and explained how the web works.
