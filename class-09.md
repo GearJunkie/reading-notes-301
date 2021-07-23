@@ -29,11 +29,11 @@ I know it’s in the name of the errors, but like it says itself, this occurs wh
 
 ### Range errors
 Try to manipulate an object with some kind of length and give it an invalid length and this kind of errors will show up.
-`var foo= []
-foo.length = foo.length -1 // Uncaught RangeError: Invalid array length`
+`var foo= []`
+`foo.length = foo.length -1 // Uncaught RangeError: Invalid array length`
 
 ### Type errors
 Like the name indicates, this types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
-`var foo = {}
-foo.bar // undefined
-foo.bar.baz // Uncaught TypeError: Cannot read property 'baz' of undefined`
+`var foo = {}`
+`foo.bar // undefined`
+`foo.bar.baz // Uncaught TypeError: Cannot read property 'baz' of undefined`
