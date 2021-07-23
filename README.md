@@ -12,3 +12,4 @@ This repository will house all of my assigned reading and the notes associated w
 - [Reading Notes 6 - Node.js](class-06.md)
 - [Reading Notes 7 - REST](class-07.md)
 - [Reading Notes 8 - API's](class-08.md)
+- [Reading Notes 9 - Memory Storage](class-09.md)
