@@ -1,5 +1,7 @@
 # Reading Notes 301
 
+Sources: https://auth0.com/docs/flows, https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
+
 ## Authentication
 
 ### What is Oauth?
