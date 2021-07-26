@@ -13,3 +13,6 @@ This repository will house all of my assigned reading and the notes associated w
 - [Reading Notes 7 - REST](class-07.md)
 - [Reading Notes 8 - API's](class-08.md)
 - [Reading Notes 9 - Memory Storage](class-09.md)
+- [Reading Notes 10 - Memory Storage](class-10.md)
+- [Reading Notes 11 - Authentication](class-11.md)
+- 
