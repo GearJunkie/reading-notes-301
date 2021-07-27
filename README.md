@@ -15,4 +15,4 @@ This repository will house all of my assigned reading and the notes associated w
 - [Reading Notes 9 - Memory Storage](class-09.md)
 - [Reading Notes 10 - Memory Storage](class-10.md)
 - [Reading Notes 11 - Authentication](class-11.md)
-- 
+- [Reading Notes 12 - Mongo & Mongoose](class-12.md)
