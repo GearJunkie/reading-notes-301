@@ -1,5 +1,7 @@
 # Reading Notes 301:
 
+Sources: https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
+
 ## Mongo & Mongoose
 
 ### SQL & noSQL database differences:
