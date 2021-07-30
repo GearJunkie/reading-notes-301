@@ -16,3 +16,5 @@ This repository will house all of my assigned reading and the notes associated w
 - [Reading Notes 10 - Memory Storage](class-10.md)
 - [Reading Notes 11 - Authentication](class-11.md)
 - [Reading Notes 12 - Mongo & Mongoose](class-12.md)
+- [Reading Notes 13 - CRUD](class-13.md)
+- [Reading Notes 14 - Diversity & Inclusion in the Tech Industry](class-14.md)
